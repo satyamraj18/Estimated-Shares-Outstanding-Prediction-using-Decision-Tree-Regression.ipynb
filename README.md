@@ -5,3 +5,5 @@ The final value of r2 is 0.7355659528095313.
 The final value of MAE is 0.18175035889194585.
 The final value of MSE is 0.26443404719046865.
 The final value of RMSE is 0.5142315112772345.
+
+The Source of dataset : https://www.kaggle.com/dgawlik/nyse?select=fundamentals.csv
